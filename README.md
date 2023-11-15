@@ -1,5 +1,5 @@
 # Stripe for Salesforce Platform
-https://githubsfdeploy.herokuapp.com/app/githubdeploy/Ttommy75103/Stripe
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/Ttommy75103/Stripe/tree/main/Payments-On-Every-Surface
 The Stripe Universal Connector for Salesforce is designed to bridge the gap between Stripe and Salesforce. This connector functions as a versatile developer toolkit, enabling low-code solutions, APEX-driven processes, and event mapping through webhooks By natively exposing Stripe's API as classes and objects within Salesforce, Salesforce Admins and Developers can develop custom flows with APEX with seamless drag-and-drop integrations between Stripe and Salesforce Flow. By handling authentication and event mappings, the connector drastically reduces the effort needed to build an integration between any Stripe product and any Core Salesforce product.
 
 More information about this connector can be found on [the docs page for the connector](https://stripe.com/docs/plugins/stripe-connector-for-salesforce/overview).
