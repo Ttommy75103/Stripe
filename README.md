@@ -20,4 +20,4 @@ You can now start developing your Salesforce application using your new Dev inst
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=Ttommy75103&repo=Stripe/tree/main/Payments-On-Every-Surface">
   <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/main/webapp/resources/img/deploy.png">
