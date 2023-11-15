@@ -18,4 +18,6 @@ More information about this connector can be found on [the docs page for the con
 You can now start developing your Salesforce application using your new Dev instance.
     * Download the Connector installation package. You can obtain the installation package from the Salesforce Market Place.
 
-https://githubsfdeploy.herokuapp.com/app/githubdeploy/Ttommy75103/Stripe/tree/main/Payments-On-Every-Surface
+<a href="https://githubsfdeploy.herokuapp.com?owner=Ttommy75103&repo=Stripe">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
